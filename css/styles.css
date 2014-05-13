@@ -1,0 +1,62 @@
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-size:16px;
+}
+
+body {
+	width:100%;
+	height:100%;
+	background: url('https://scontent-a-lax.xx.fbcdn.net/hphotos-frc1/t1.0-9/1798880_10203193598751682_1800482622_n.jpg');
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+.profile {
+	margin-top:140px;
+	background-color: hsla(190, 35%, 50%, 0.5);
+}
+.head {
+
+}
+.buttons{
+	text-align:center;
+}
+
+.info {
+	line-height: 30px;
+	font-size:1.2em;
+}
+/*button{
+	font-size:1.3em;
+	font-family: 'Oswald', sans-serif;
+	width:32%;
+	border-radius:10px;
+	background-color:black;
+	color:hsla(190, 35%, 50%, 1);
+}*/
+
+h1{
+	font-family: 'righteous', cursive;
+	font-size: 5em;
+
+}
+h2{
+	font-size: 2em;
+}
+button:hover{
+	color:red;
+
+	}
+	button:active{
+		font-size:150%;
+	}
+
+p {
+	margin-top:15px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
